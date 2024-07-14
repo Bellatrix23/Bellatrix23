@@ -14,7 +14,7 @@ On this GitHub adventure, you'll stumble upon a delightful mix of projects rangi
 
 - **Web Development Wonders:** HTML, CSS, JavaScript, React – you name it, I’m on it!
 - **Backend Brilliance:** Python, Node.js, databases – making the magic happen behind the scenes.
-- **Quirky Projects:** Fun, innovative, and sometimes a bit oddball. 
+- **Projects:** Fun, innovative, and sometimes a bit oddball. 
 
 ## My Coding Journey 🚀
 
