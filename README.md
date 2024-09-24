@@ -1,58 +1,60 @@
 # 🌟 Welcome to Zoë Bell's GitHub! 🌟
 
-Hello there! 👋 I'm Zoë Bell, a 26-year-old adventure-seeker diving into the thrilling world of Full Stack Web & Software Engineering, all thanks to the amazing team at HyperionDev. With a B.Com degree in Information Management tucked under my belt, I'm here to sprinkle a bit of code magic into the tech universe. ✨
+Hello there! 👋 I'm Zoë Bell, a **Junior Full Stack Web & Software Engineer**, graduated from the dynamic program at HyperionDev. With a B.Com degree in Information Management and a passion for tech, I'm ready to make waves in the world of development, one line of code at a time. ✨
 
 ## About Me 📚
 
-- **Studying:** Full Stack Web & Software Engineering @ HyperionDev
+- **Graduated:** Full Stack Web & Software Engineering @ HyperionDev
 - **Degree:** B.Com in Information Management
 - **Passion:** Turning coffee ☕ into code 🖥️
+- **Stack Expertise:** MERN Stack (MongoDB, Express, React, Node.js), along with Laravel for backend magic.
 
 ## What You'll Find Here 🕵️‍♀️
 
-On this GitHub adventure, you'll stumble upon a delightful mix of projects ranging from web apps to software solutions. Here’s a sneak peek:
+Here in my GitHub repos, you’ll discover an exciting variety of projects showcasing my skills in both web and software engineering. Expect to find:
 
-- **Web Development Wonders:** HTML, CSS, JavaScript, React – you name it, I’m on it!
-- **Backend Brilliance:** Python, Node.js, databases – making the magic happen behind the scenes.
-- **Projects:** Fun, innovative, and sometimes a bit oddball. 
+- **Frontend Wizardry:** HTML, CSS, JavaScript, React – building clean, responsive user interfaces.
+- **Backend Mastery:** PHP, Node.js, Python – bringing the logic and structure behind the scenes.
+- **Databases & APIs:** MongoDB, SQL, JSON, APIs – organizing data and making it flow seamlessly.
 
 ## My Coding Journey 🚀
 
-I’ve always believed that learning should be fun and full of curiosity. That's why my projects often have a sprinkle of humor and a dash of creativity. I'm passionate about clean code, innovative solutions, and, most importantly, making tech accessible and enjoyable for everyone!
+I’ve always approached coding with creativity and curiosity. My projects reflect that philosophy, combining clean, efficient code with fun and accessible solutions. I'm passionate about innovative tech, tackling real-world problems, and, most importantly, sharing the joy of learning.
+
+## Skills & Technologies 🛠️
+
+- **Languages:** JavaScript, Java, PHP, HTML, CSS, Python
+- **Frameworks & Tools:** React, Node.js, Laravel, MongoDB, SQL, JSON, APIs, NPM
+- **Version Control:** Git & GitHub
 
 ## How to Reach Me 🌐
 
-Feel free to connect with me – I love meeting new people.
+I love connecting with other tech enthusiasts! Let’s chat and collaborate:
 
 - **Email:** [zoesamanthabell@gmail.com](mailto:zoesamanthabell@gmail.com)
 - **LinkedIn:** [Zoë Bell on LinkedIn](www.linkedin.com/in/zoë-samantha-bell-362732176)
 
 ## Fun Facts 🌈
 
-- 🌟 **Favorite Code Editor:** VSCode, hands down.
-- 🎨 **Hobbies:** Drawing, hiking, and finding the best coffee spots.
-- 🐱 **Pets:** 4 mischievous cats named Hamilton, Hayden, Hendrick & Hamish who think they're helping me code.
+- 🌟 **Favorite Stack:** MERN (MongoDB, Express, React, Node.js)
+- 🎨 **Hobbies:** Reading, gaming, painting, knitting, skateboarding, hiking, and discovering Cape Town’s best coffee spots.
+- 🐱 **Pets:** I have 4 mischievous cats (Hamilton, Hayden, Hendrick & Hamish) who think they're helping me code by napping on my keyboard.
 
-## Let's Build Something Awesome Together! 💻✨
+## Let’s Build Something Awesome Together! 💻✨
 
-Whether you’re here to browse, collaborate, or just say hi, I'm thrilled to have you! Dive into my repositories, explore the code, and don't hesitate to reach out. The world of tech is vast and exciting, and I can’t wait to see where this journey takes us.
+Whether you’re here to browse through code, collaborate on a project, or just say hi, I’m excited to connect. Dive into my repositories and explore the world of tech with me. The journey has just begun, and I can’t wait to see where it takes us!
 
 ---
 
 🌟 **Zoë Bell** 🌟
 
-Full Stack Web & Software Engineering Student @ HyperionDev
+Full Stack Web & Software Engineer | HyperionDev Graduate
 
-B.Com in Information Management
+B.Com in Information Management | University of Johannesburg
 
 ---
 
-Let’s make the tech world a little brighter. 🌟
+Let's create tech that inspires and makes a difference. 🌟
 
 ![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
----
-
-
-
 
